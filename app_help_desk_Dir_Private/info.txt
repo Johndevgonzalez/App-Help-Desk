@@ -1,0 +1,3 @@
+c:/xampp
+- app_help_desk (será diretorio de arquivos e scripts sigilosos)
+- htdocs/app_help_desk (diretorio publico)
